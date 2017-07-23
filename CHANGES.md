@@ -1,6 +1,13 @@
 MariaDB4j Release Notes
 =======================
 
+v2.3.0 @ 2017-07-xx
+----
+
+* 
+* Dependency to new project https://github.com/vorburger/ch.vorburger.exec
+
+
 v2.2.3 @ 2017-02-10
 ---
 
